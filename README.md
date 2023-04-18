@@ -1,1 +1,1 @@
-# cartesian_optimizer
+Simple Travelling Salesman solution.
